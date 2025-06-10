@@ -1,0 +1,101 @@
+Company Name,Company Type,Nights Occupied Last Year,Cooperation Status,Standard Price,Twin Price,Accessible Price,Deluxe Price,Family Deluxe Price,Suite Price
+Garcia-Larson,Direct Companies,417,Paused,46000,46000,43000,61000,68000,75000
+Noble-Choi,Local travel agents,289,Cancelled,45000,45000,46000,59000,65000,79000
+Newman and Sons,Local travel agents,363,Cancelled,46000,42000,44000,63000,68000,81000
+Harris Group,Local travel agents,252,Inactive,44000,46000,44000,58000,65000,81000
+Noble-Barton,Online travel agency,71,Paused,43000,44000,44000,58000,70000,78000
+"Daniels, Peterson and Ramirez",Local travel agents,244,Paused,44000,42000,46000,60000,66000,81000
+Smith Inc,Direct Companies,587,Cancelled,43000,45000,46000,58000,68000,75000
+Gallegos-Hoffman,Online travel agency,118,Active,46000,45000,45000,63000,67000,76000
+Lopez-Williams,Local travel agents,446,Active,45000,42000,46000,61000,66000,77000
+"Turner, Ibarra and Larson",Online travel agency,435,Paused,42000,44000,42000,61000,72000,74000
+"Wilson, Orozco and Anderson",Local travel agents,113,Paused,42000,45000,43000,63000,70000,76000
+"James, Jefferson and Lamb",Online travel agency,569,Cancelled,46000,45000,46000,62000,71000,82000
+"Young, Schaefer and Murphy",Local travel agents,391,Active,44000,42000,45000,64000,66000,78000
+"Barrett, Love and Watson",Local travel agents,236,Active,42000,42000,45000,60000,68000,74000
+Adams Ltd,Local travel agents,181,Paused,41000,42000,45000,63000,68000,75000
+Underwood PLC,Direct Companies,192,Active,45000,46000,44000,59000,67000,75000
+Sullivan-Myers,Direct Companies,303,Active,44000,44000,45000,60000,65000,81000
+Miller Group,Local travel agents,485,Paused,43000,41000,46000,59000,70000,82000
+Foster Inc,Local travel agents,193,Active,42000,46000,42000,60000,71000,74000
+Rojas-Weiss,Direct Companies,79,Cancelled,43000,42000,45000,59000,70000,80000
+Diaz PLC,Direct Companies,127,Active,44000,44000,42000,62000,66000,77000
+"Harris, Silva and Gonzalez",Local travel agents,396,Active,42000,44000,43000,58000,67000,80000
+"Figueroa, Bowen and Morgan",Online travel agency,231,Cancelled,46000,42000,44000,62000,69000,74000
+"Dean, Reed and Mccarthy",Direct Companies,185,Active,42000,43000,44000,62000,69000,74000
+Roberts-Castillo,Local travel agents,147,Active,46000,44000,45000,61000,68000,77000
+Ford-Hall,Online travel agency,659,Cancelled,45000,42000,42000,60000,70000,82000
+"Mullins, Mccarthy and Brown",Direct Companies,387,Paused,45000,45000,44000,63000,68000,80000
+Johnson-Fuentes,Online travel agency,363,Cancelled,43000,45000,43000,58000,71000,76000
+Glover Ltd,Online travel agency,200,Active,43000,46000,44000,63000,67000,74000
+Wong PLC,Local travel agents,345,Paused,44000,42000,42000,60000,71000,74000
+Jordan-Crawford,Direct Companies,318,Cancelled,44000,43000,44000,60000,71000,82000
+Harris-Anderson,Direct Companies,268,Paused,46000,42000,44000,64000,67000,75000
+Mills-Fleming,Direct Companies,109,Cancelled,43000,44000,45000,64000,70000,77000
+Stephens and Sons,Online travel agency,313,Active,43000,43000,44000,58000,70000,82000
+Donaldson-Bryant,Online travel agency,616,Cancelled,45000,41000,45000,61000,71000,79000
+Moreno-Morgan,Direct Companies,548,Active,45000,44000,42000,63000,71000,78000
+Hart Ltd,Online travel agency,286,Active,44000,45000,45000,61000,65000,76000
+Mendoza-Burnett,Online travel agency,656,Cancelled,42000,43000,45000,63000,71000,80000
+Logan PLC,Online travel agency,651,Active,45000,43000,45000,63000,66000,82000
+Vincent-Conley,Local travel agents,489,Cancelled,46000,44000,45000,63000,71000,80000
+Hernandez-Torres,Online travel agency,613,Active,46000,42000,45000,61000,69000,82000
+Smith-Foster,Local travel agents,524,Cancelled,45000,45000,45000,61000,68000,76000
+Castaneda and Sons,Direct Companies,493,Cancelled,42000,44000,45000,60000,67000,76000
+"Henry, Spears and Cole",Local travel agents,59,Active,43000,42000,42000,64000,66000,82000
+Moody Ltd,Direct Companies,535,Active,42000,45000,43000,58000,70000,81000
+Coleman-Everett,Online travel agency,489,Paused,43000,42000,45000,58000,69000,80000
+Morales and Sons,Online travel agency,610,Paused,43000,42000,46000,58000,65000,81000
+"Terry, Baker and Williams",Online travel agency,473,Active,46000,43000,42000,60000,66000,82000
+Garrett LLC,Local travel agents,157,Cancelled,42000,44000,42000,59000,68000,75000
+"Norris, Patterson and Jones",Direct Companies,234,Active,43000,43000,44000,61000,65000,78000
+"Morgan, Harris and Williams",Online travel agency,547,Cancelled,43000,46000,45000,60000,68000,74000
+Martin-White,Local travel agents,355,Active,44000,45000,43000,61000,65000,77000
+Jackson-Elliott,Direct Companies,418,Paused,42000,42000,42000,64000,68000,75000
+Beard-Robertson,Online travel agency,351,Active,44000,45000,46000,59000,72000,75000
+Ford Ltd,Direct Companies,163,Paused,45000,45000,42000,60000,69000,81000
+Grimes-Wood,Direct Companies,541,Cancelled,42000,42000,43000,58000,69000,78000
+Torres LLC,Direct Companies,376,Active,45000,43000,44000,59000,71000,77000
+"Huerta, Mills and Taylor",Local travel agents,440,Active,44000,43000,44000,64000,67000,81000
+Freeman Ltd,Local travel agents,103,Active,44000,42000,44000,59000,67000,81000
+"Wright, Henry and Roberts",Direct Companies,227,Cancelled,42000,43000,41000,60000,67000,76000
+Kelley-Vargas,Local travel agents,610,Paused,43000,43000,43000,61000,68000,79000
+Wood PLC,Direct Companies,63,Cancelled,45000,42000,45000,58000,65000,75000
+Wright-Acosta,Local travel agents,122,Active,43000,45000,42000,63000,68000,77000
+"Cobb, Barber and Chavez",Local travel agents,92,Paused,46000,43000,42000,64000,67000,81000
+"Greene, Rice and Smith",Direct Companies,416,Cancelled,45000,43000,46000,58000,72000,80000
+Martinez-Watkins,Online travel agency,62,Active,46000,42000,44000,63000,67000,79000
+Reyes PLC,Local travel agents,421,Paused,42000,44000,44000,61000,65000,76000
+Harrison-Calhoun,Local travel agents,290,Active,44000,45000,43000,61000,67000,77000
+Blevins Inc,Online travel agency,291,Active,44000,46000,45000,61000,70000,79000
+Nichols LLC,Online travel agency,389,Cancelled,46000,44000,44000,58000,69000,76000
+Evans Group,Local travel agents,444,Paused,41000,42000,45000,61000,70000,78000
+"Proctor, Heath and Smith",Local travel agents,617,Active,45000,45000,45000,59000,65000,74000
+Warren-Thomas,Local travel agents,679,Active,46000,43000,44000,64000,69000,75000
+"Reynolds, Rios and Savage",Local travel agents,563,Active,42000,46000,46000,62000,71000,79000
+"Hensley, Mcgrath and Figueroa",Online travel agency,265,Active,46000,43000,44000,60000,68000,76000
+Farmer Ltd,Local travel agents,252,Cancelled,43000,43000,44000,58000,67000,77000
+"Ball, Scott and Robinson",Online travel agency,585,Paused,43000,43000,44000,64000,65000,80000
+Smith and Sons,Local travel agents,161,Paused,43000,42000,46000,60000,67000,78000
+Livingston LLC,Local travel agents,462,Active,46000,43000,44000,61000,66000,77000
+Davis-Hughes,Direct Companies,110,Cancelled,44000,43000,45000,60000,71000,78000
+Ware Group,Direct Companies,644,Paused,43000,42000,45000,64000,67000,78000
+Jacobs-Garrett,Direct Companies,177,Active,45000,44000,44000,58000,70000,78000
+Smith PLC,Local travel agents,376,Active,46000,43000,43000,62000,66000,76000
+"Price, Carson and Scott",Online travel agency,655,Paused,46000,45000,44000,60000,68000,75000
+"Stewart, Herrera and Moran",Local travel agents,524,Paused,43000,43000,44000,64000,65000,77000
+"Garcia, Castillo and Whitehead",Direct Companies,555,Paused,43000,44000,46000,58000,71000,77000
+Clark-Middleton,Local travel agents,216,Paused,44000,46000,45000,64000,69000,79000
+Thompson LLC,Direct Companies,74,Paused,45000,46000,45000,62000,70000,81000
+Morrow Ltd,Direct Companies,276,Paused,42000,43000,42000,58000,70000,75000
+"Lyons, Klein and Moss",Direct Companies,694,Cancelled,44000,45000,45000,63000,70000,80000
+Hernandez PLC,Local travel agents,512,Paused,46000,42000,44000,58000,67000,74000
+"Allen, Kelly and Pineda",Local travel agents,343,Cancelled,43000,43000,45000,61000,66000,76000
+Crawford Ltd,Online travel agency,145,Paused,44000,46000,44000,61000,72000,75000
+West Ltd,Online travel agency,469,Paused,45000,45000,42000,59000,67000,81000
+"Hoffman, Hall and James",Online travel agency,684,Active,42000,45000,45000,64000,70000,82000
+"Lopez, Navarro and Rich",Direct Companies,360,Paused,45000,46000,44000,63000,68000,75000
+Palmer Inc,Online travel agency,543,Active,44000,43000,44000,59000,70000,76000
+Lopez Inc,Local travel agents,64,Cancelled,44000,45000,43000,60000,67000,77000
+Kerr Group,Local travel agents,135,Paused,44000,45000,42000,61000,67000,82000
+Pope-Luna,Direct Companies,677,Active,42000,44000,42000,63000,68000,77000
